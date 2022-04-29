@@ -1,2 +1,2 @@
-# script.ezart
+# script.B99art
 
