@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="script.B99art" name="B99 Art Module" provider-name="" version="0.0.1">
+<addon id="script.B99art" name="B99 Art Module" provider-name="" version="0.0.2">
     <extension point="xbmc.python.module" />
     <extension point="xbmc.addon.metadata">
         <summary>Themes for Addons</summary>
